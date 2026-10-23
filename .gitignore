@@ -1,0 +1,15 @@
+# Local conversations and reports
+/sessions/
+/private/
+/evaluation-runs/
+
+# Local credentials and editor/runtime artifacts
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/

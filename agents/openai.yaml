@@ -1,0 +1,4 @@
+interface:
+  display_name: "辩思 · Debate to Think"
+  short_description: "通过逐轮辩论、原话复盘与立场重写，练习更清楚且可修正的判断"
+  default_prompt: "使用 $debate-to-think，陪我选一个辩题并逐轮交锋，结束后依据我的原话复盘推理，再带我重写立场。"
